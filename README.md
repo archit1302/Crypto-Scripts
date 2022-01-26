@@ -13,3 +13,4 @@ The scripts will be having ->
 
 
 Currently the strategies will be using Binance websockets.
+Scripts can be found on the master branch.
