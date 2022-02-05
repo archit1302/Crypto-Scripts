@@ -13,3 +13,8 @@ The scripts will be having ->
 
 
 Currently the strategies will be using Binance websockets.
+
+# Binance Socket Documentation -
+
+Documentation - https://binance-docs.github.io/apidocs/futures/en/#websocket-market-streams
+
